@@ -1,10 +1,10 @@
 using System;
 
 
-namespace R5T.D0100.A001
+namespace R5T.D0100.X001
 {
     /// <summary>
-    /// IFileBasedRepository service.
+    /// Basic extensions.
     /// </summary>
     public static class Documentation
     {
